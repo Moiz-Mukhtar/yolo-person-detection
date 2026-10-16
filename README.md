@@ -1,1 +1,0 @@
-# yolo-person-detection
